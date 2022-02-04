@@ -7,6 +7,7 @@
 - :computer: I'm currently studing Java, JavaScript, SQL and TDD
 
 <br><br>
+<br><br>
 
 ## :computer: &nbsp;Tech Stack
 
