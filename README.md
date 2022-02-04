@@ -23,6 +23,14 @@
 
 <br><br>
 
+## :globe_with_meridians: &nbsp;LinkedIn
+
+<a href="https://www.linkedin.com/in/j%C3%BAlia-passos-01056a19b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Júlia Passos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<br><br>
+
 ## :octocat: &nbsp;GitHub Analytics
 
 <p align="left">
@@ -30,13 +38,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgpassos&layout=compact&langs_count=7&theme=dracula" alt="Julia's most languages"/>
 </p>
 
-<br><br>
 
-## :globe_with_meridians: &nbsp;LinkedIn
-
-<a href="https://www.linkedin.com/in/j%C3%BAlia-passos-01056a19b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Júlia Passos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 
 
 
