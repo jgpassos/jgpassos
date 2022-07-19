@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Júlia Passos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgpassos&color=yellow" alt="Profile views" /> </p>
 
-- :mortar_board: Computer Information Systems student
-- :mortar_board: Intern
-- :computer: I'm currently studing Java, JavaScript, SQL and TDD
+- :mortar_board: Computer Information Systems
+- :mortar_board: Student
+- :computer: I'm currently studing Java, JavaScript and SQL.
 
 <br><br>
 <br><br>
