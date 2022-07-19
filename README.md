@@ -30,12 +30,6 @@
 </a>
 
 <br><br>
-
-## :octocat: &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jgpassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Julia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgpassos&layout=compact&langs_count=7&theme=dracula" alt="Julia's most languages"/>
 </p>
 
 
