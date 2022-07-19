@@ -30,6 +30,11 @@
 </a>
 
 <br><br>
+
+## :octocat: &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgpassos&layout=compact&langs_count=7&theme=dracula" alt="Julia's most languages"/>
 </p>
 
 
