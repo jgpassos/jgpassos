@@ -4,7 +4,7 @@
 
 - :mortar_board: Computer Information Systems
 - :mortar_board: Student
-- :computer: I'm currently studing software development using Java and Python.
+- :computer: I'm currently studing software development with Java and Python.
 
 <br><br>
 <br><br>
